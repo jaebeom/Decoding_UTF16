@@ -4,8 +4,6 @@
 * This is decodeUTF16.c file in program 1.
 *
 * Decode(UTF16 to UTF32).
-*
-* Due Feb 6, 2019
 */
 
 #include <stdio.h>
